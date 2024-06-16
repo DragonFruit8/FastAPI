@@ -1,2 +1,6 @@
 .env
-__pychache__/
+.history/
+*__pycache__/
+*.pyc
+*.pyo
+*.pyd
