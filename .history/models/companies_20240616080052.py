@@ -1,0 +1,1 @@
+from beanie import Document, init_beanie
